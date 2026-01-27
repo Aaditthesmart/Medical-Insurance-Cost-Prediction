@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
+# 🏥 Medical Insurance Cost Prediction using Decision Trees
 
 ## 📌 Project Overview
 This project focuses on predicting **medical insurance charges** using supervised machine learning.  
